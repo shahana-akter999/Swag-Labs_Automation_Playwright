@@ -10,8 +10,8 @@ Visual Studio
 
 https://code.visualstudio.com/Download
 
--**Open Clone project on VS Code**
+- **Open Clone project on VS Code**
 
--**Install Dependencies on terminal**
+- **Install Dependencies on terminal**
 
   npm install
