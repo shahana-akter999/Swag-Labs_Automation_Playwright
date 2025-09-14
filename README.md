@@ -14,4 +14,6 @@ https://code.visualstudio.com/Download
 
 - **Install Dependencies on terminal**
 
+  ```bash
+
   npm install
