@@ -5,9 +5,11 @@ This project includes end-to-end automated test scripts for the Swag Labs demo e
 - **Product Browsing**  
 - **Cart Management** (Add items)  
 - **Checkout Process** 
-#Install
+# Install
 Visual Studio
+
 https://code.visualstudio.com/Download
+
 -**Open Clone project on VS Code**
 -**Install Dependencies on terminal**
 
