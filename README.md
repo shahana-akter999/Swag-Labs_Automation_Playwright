@@ -25,4 +25,7 @@ https://code.visualstudio.com/Download
 - Add to Cart 
 - Checkout Process
 - Order Completion
-
+## **Output**
+# Report Screenshot:
+ 
+<img width="1906" height="442" alt="output_screenshot" src="https://github.com/user-attachments/assets/cf4e7782-51b3-487c-8202-e7633f056a51" />
