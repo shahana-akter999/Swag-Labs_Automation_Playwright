@@ -26,6 +26,12 @@ https://code.visualstudio.com/Download
 - Checkout Process
 - Order Completion
 ## **Output**
-# Report Screenshot:
+# Report Screenshot
  
 <img width="1906" height="442" alt="output_screenshot" src="https://github.com/user-attachments/assets/cf4e7782-51b3-487c-8202-e7633f056a51" />
+# Video Report
+
+
+https://github.com/user-attachments/assets/0f3bc810-91bd-4df6-907d-7e535364f01a
+
+
