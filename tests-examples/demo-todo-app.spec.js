@@ -447,4 +447,3 @@ async function checkTodosInLocalStorage(page, title) {
     return JSON.parse(localStorage['react-todos']).map(i => i.title).includes(t);
   }, title);
 }
-trest text
